@@ -3,7 +3,7 @@ import random
 #functions and parameters used
 #if else condition is used
 
-#WINNING CONDITIONS
+#WINNING CONDITIONSā
 def option(c,d,player1,player2):
     if player1 == player2:
         print("its a tie")
