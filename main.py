@@ -102,7 +102,7 @@ elif (player1 =="player") or (player2 =="player"):
 elif (player1=="computer") and (player2=="computer"):
        playervscomp("computer1","computer2")
 else:
- print("enter valid options")
+ print("enter valid option")
 
 
 
